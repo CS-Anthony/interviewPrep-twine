@@ -1,1 +1,3 @@
 # interviewPrep-twine
+The topic I chose for my game is Interview Prep. 
+Description: In the game, the player has an upcoming interview in two days for an internship they applied for, but they have never done an interview before. They have a variety of choices to choose from in order to prepare them for the interview. But be careful as they take up your time depending on the choices you made. You may or may not be able to go through all the choices, and different choices will lead to different levels of preparedness, which is important when the day for the interview comes. Depending on your choices, especially on interview day, you may secure the internship position. Good luck!
